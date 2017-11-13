@@ -1,3 +1,11 @@
-# Materials for Tensorflow Study
+# Examples of Using Tensorflow
 
-- Very Beginning: https://www.tensorflow.org/get_started/mnist/mechanics
+## Basic
+- Linear Regression: 
+- Logistic Regression: 
+- Neural Network: 
+- Deep Neural Network:
+
+## Advanced
+- Autoencoder
+- Variational Autoencoder
