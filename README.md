@@ -2,8 +2,6 @@
 
 ## Basic
 - Linear Regression: 
-- Logistic Regression: 
-- Neural Network: 
 - Deep Neural Network:
 
 ## Advanced
